@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @tegeret
-- 👀 I’m interested in ...hacking
-- 🌱 I’m currently learning ...phishing
-- 💞️ I’m looking to collaborate on ...with my other hackers
+- 👀 I’m interested in ...software engineering and cyber security
+- 🌱 I’m currently learning ...phishing attacks
+- 💞️ I’m looking to collaborate with my other hackers and sftware developers
 - 📫 How to reach me ...tegeretbrian@gmail.com
-- 😄 Pronouns: ...she calls me HE
-- ⚡ Fun fact: ...trying to be funny always
+- 😄 Pronouns: ...HE
+- ⚡ Fun fact: ...you just got hacked!
 
 <!---
 tegeret/tegeret is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
